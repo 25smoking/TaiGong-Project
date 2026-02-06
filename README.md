@@ -434,6 +434,12 @@ docker run -d \
 | **场景商店** | **用户组管理** |
 | ![Scenario](doc/screenshots/03_scenario_store.png) | ![Users](doc/screenshots/04_users_groups.png) |
 
+#### 5. 更多截屏 (More Screenshots)
+
+| 运行详情 | 环境特征 |
+| :---: | :---: |
+| ![Detail](doc/screenshots/22.png) | ![Environment](doc/screenshots/23.png) |
+
 </details>
 
 ---
