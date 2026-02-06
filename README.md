@@ -393,11 +393,6 @@ docker run -d \
 
 ### 部分功能截图 (Feature Gallery)
 
-<details>
-<summary><strong>点击查看更多运行截图 / Click to expand details</strong></summary>
-
-<br>
-
 #### 1. 核心指挥舱 (Dashboard & Analytics)
 
 | 全局态势感知 | 风险分析仪表盘 |
@@ -439,8 +434,6 @@ docker run -d \
 | 运行详情 | 环境特征 |
 | :---: | :---: |
 | ![Detail](doc/screenshots/22.png) | ![Environment](doc/screenshots/23.png) |
-
-</details>
 
 ---
 
