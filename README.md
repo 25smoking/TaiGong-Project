@@ -41,7 +41,7 @@
 - **GitHub Issues**: [提交 Issue](https://github.com/your-org/taigong/issues)
 - **微信交流 (贡献/交流)**:
   
-  <img src="doc/screenshots/wechat_contact.png" alt="WeChat QR" width="200">
+  <img src="doc/screenshots/wechat_contact.png" alt="WeChat QR" width="400">
 
 ---
 
