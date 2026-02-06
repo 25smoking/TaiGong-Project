@@ -33,10 +33,15 @@
 
 - **内部测试版本** - 当前版本为内部开发与红队实战验证阶段
 - **暂不公开发布** - 短期内不会发布面向公众的通用版本
-- **专业团队定向** - 仅向经过审核的专业红队/安全团队提供访问权限
 - **持续迭代中** - 核心功能与架构仍在快速演进
 
 如需获取访问权限或了解发布计划,请联系项目维护团队。
+
+**联系方式:**
+- **GitHub Issues**: [提交 Issue](https://github.com/your-org/taigong/issues)
+- **微信交流 (贡献/交流)**:
+  
+  <img src="doc/screenshots/wechat_contact.png" alt="WeChat QR" width="200">
 
 ---
 
