@@ -391,6 +391,54 @@ docker run -d \
 
 ---
 
+### 部分功能截图 (Feature Gallery)
+
+<details>
+<summary><strong>点击查看更多运行截图 / Click to expand details</strong></summary>
+
+<br>
+
+#### 1. 核心指挥舱 (Dashboard & Analytics)
+
+| 全局态势感知 | 风险分析仪表盘 |
+| :---: | :---: |
+| ![Dashboard](doc/screenshots/21_dashboard_active.png) | ![Risk Dashboard](doc/screenshots/18_risk_dashboard.png) |
+| **用户风险画像** | **风险趋势分析** |
+| ![User Risk](doc/screenshots/20_user_risk.png) | ![Risk Charts](doc/screenshots/19_risk_charts.png) |
+| **智能诊断中心** | |
+| ![Diagnosis](doc/screenshots/07_smart_diagnosis.png) | |
+
+#### 2. 武器化与AI (Weaponization & AI)
+
+| 武器化控制台 | AI 助手对话 |
+| :---: | :---: |
+| ![Weaponization](doc/screenshots/11_weaponization.png) | ![AI Assistant](doc/screenshots/12_ai_assistant.png) |
+| **AI 内容生成** | |
+| ![AI Generation](doc/screenshots/17_ai_generation.png) | |
+
+#### 3. 演练编排 (Campaign & Delivery)
+
+| 新建演练任务 | 邮件投递配置 |
+| :---: | :---: |
+| ![New Campaign](doc/screenshots/13_new_campaign.png) | ![Sending Email](doc/screenshots/09_sending_email.png) |
+| **短信投递 (SMS)** | **交互响应跟踪** |
+| ![SMS](doc/screenshots/10_sending_sms.png) | ![Button Response](doc/screenshots/06_button_response.png) |
+
+#### 4. 模板与资源 (Templates & Landing Pages)
+
+| 落地页编辑器 | 落地页管理 |
+| :---: | :---: |
+| ![Editor](doc/screenshots/05_landing_page_editor.png) | ![Landing Page Mgmt](doc/screenshots/08_landing_page_mgmt.png) |
+| **模板市场** | **模板预览 (163)** |
+| ![Market](doc/screenshots/14_template_market.png) | ![Preview](doc/screenshots/15_preview_163.png) |
+| **场景商店** | **用户组管理** |
+| ![Scenario](doc/screenshots/03_scenario_store.png) | ![Users](doc/screenshots/04_users_groups.png) |
+
+</details>
+
+---
+
+
 ### 联系方式
 
 - **GitHub Issues**: [提交 Issue](https://github.com/your-org/taigong/issues)
